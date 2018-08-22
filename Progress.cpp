@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "Progress.h"
-
+//Add comment
 void ProgressView::handleCancel() {
   _controller->onCancel();
 }
