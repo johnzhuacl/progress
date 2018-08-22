@@ -10,7 +10,7 @@
 #define new DEBUG_NEW
 #endif
 
-
+//This is modification for demo
 // CMFCApplication1App
 
 BEGIN_MESSAGE_MAP(CMFCApplication1App, CWinApp)
