@@ -11,6 +11,7 @@
 #endif
 
 //This is modification for demo
+//AAHAH
 // CMFCApplication1App
 
 BEGIN_MESSAGE_MAP(CMFCApplication1App, CWinApp)
